@@ -1,0 +1,22 @@
+{
+  "name": "rn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "react": "18.2.0",
+    "react-native": "0.74.3",
+    "react-native-webview": "^13.16.0",
+    "tata-play-lit": "file:/Users/vishalkumar/Documents/WorkSpace/ttn_lit"
+  },
+  "scripts": {
+    "start": "react-native start"
+  },
+  "devDependencies": {
+    "@react-native-community/cli": "12.3.6",
+    "@react-native/babel-preset": "^0.74",
+    "@react-native/metro-config": "^0.74",
+    "metro": "0.80.7",
+    "metro-react-native-babel-preset": "^0.77.0"
+  }
+}
